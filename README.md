@@ -13,17 +13,20 @@ The experiment start with Power 60W at feed rate 50 mm/min. The drill moves down
 <br>
 Acrylic drilling, this material is a thickness of 3 mm.
 <br>
+<br>
 [![Drilling Acrylic](https://img.youtube.com/vi/ywRKRw5kEJM/0.jpg)](https://www.youtube.com/watch?v=ywRKRw5kEJM)
 <br>
 <br>
 Plastic PTFE drilling, this material is a thickness of 5 mm.
+<br>
 <br>
 [![Drilling PTFE](https://img.youtube.com/vi/8MmbGZMqn0s/0.jpg)](https://www.youtube.com/watch?v=8MmbGZMqn0s)
 <br>
 <br>
 Hardwood drilling, this material is a thickness of 10 mm.
 <br>
-[![Drilling Hardwood](https://img.youtube.com/vi/IHWydRdQkqU&t=1s/0.jpg)](https://www.youtube.com/watch?v=IHWydRdQkqU&t=1s)
+<br>
+[![Drilling Hardwood](https://img.youtube.com/vi/IHWydRdQkqU/0.jpg)](https://www.youtube.com/watch?v=IHWydRdQkqU)
 
 ## TXT File
 The file contains a G-code script for CNC drilling operations.
@@ -47,4 +50,3 @@ It includes:
 **How to use**
 1. Download `CSV File`.
 2. If you have MATLAB or other program, can upload to open the file.
-3. 
