@@ -17,6 +17,5 @@ The file contains a time and event data for drilling operations. It includes:
 1. Download `CSV File`.
 2. If you have MATLAB or other program, can upload to open the file.
 
-## Sound Library of Plastic ##
-https://www.youtube.com/watch?v=ywRKRw5kEJM
-[![[ชมวิดีโอ](https://www.youtube.com/watch?v=ywRKRw5kEJM)]
+## Sound Library ##
+[![Acrylic Drilling ](https://img.youtube.com/vi/v0g6qwpXeClVOMPz.jpg)](https://www.youtube.com/watch?v=v0g6qwpXeClVOMPz)
