@@ -11,22 +11,19 @@ Drilling was performed at two feed rates are 50 and 150 mm/min, three power leve
 The experiment start with Power 60W at feed rate 50 mm/min. The drill moves down, press into the material and penetrates the material. We observed the frequency that occurs and there may be other frequencies because that frequency also occurs resonance. The power level was increased to 80 and 100W that observed high frequency, correlating with the increased force applied to the material.
 <br>
 <br>
-Acrylic drilling
-This material is acrylic with a thickness of 3 mm.
+Acrylic drilling,This material is a thickness of 3 mm.
 <br>
 [![Drilling Acrylic](https://img.youtube.com/vi/ywRKRw5kEJM/0.jpg)](https://www.youtube.com/watch?v=ywRKRw5kEJM)
 <br>
 <br>
-Plastic PTFE drilling
-This material is PTFE with a thickness of 5 mm.
+Plastic PTFE drilling, This material is a thickness of 5 mm.
 <br>
 [![Drilling PTFE](https://img.youtube.com/vi/8MmbGZMqn0s/0.jpg)](https://www.youtube.com/watch?v=8MmbGZMqn0s)
 <br>
 <br>
-Hardwood drilling
-This material is Hardwood with a thickness of 10 mm.
+Hardwood drilling,This material is a thickness of 10 mm.
 <br>
-[![Drilling HW](https://img.youtube.com/vi/IHWydRdQkqU&t=1s/0.jpg)](https://www.youtube.com/watch?v=IHWydRdQkqU&t=1s)
+[![Drilling Hardwood](https://img.youtube.com/vi/IHWydRdQkqU&t=1s/0.jpg)](https://www.youtube.com/watch?v=IHWydRdQkqU&t=1s)
 
 
 ### TXT File
