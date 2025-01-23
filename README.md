@@ -11,27 +11,23 @@ Drilling was performed at two feed rates are 50 and 150 mm/min, three power leve
 The experiment start with Power 60W at feed rate 50 mm/min. The drill moves down, press into the material and penetrates the material. We observed the frequency that occurs and there may be other frequencies because that frequency also occurs resonance. The power level was increased to 80 and 100W that observed high frequency, correlating with the increased force applied to the material.
 <br>
 <br>
-Acrylic drilling, this material is a thickness of 3 mm.
-<br>
+**Acrylic drilling**, this material is a thickness of 3 mm.
 <br>
 [![Drilling Acrylic](https://img.youtube.com/vi/ywRKRw5kEJM/0.jpg)](https://www.youtube.com/watch?v=ywRKRw5kEJM)
 <br>
 <br>
-Plastic PTFE drilling, this material is a thickness of 5 mm.
-<br>
+**Plastic PTFE drilling**, this material is a thickness of 5 mm.
 <br>
 [![Drilling PTFE](https://img.youtube.com/vi/8MmbGZMqn0s/0.jpg)](https://www.youtube.com/watch?v=8MmbGZMqn0s)
 <br>
 <br>
-Hardwood drilling, this material is a thickness of 10 mm.
-<br>
+**Hardwood drilling**, this material is a thickness of 10 mm.
 <br>
 [![Drilling Hardwood](https://img.youtube.com/vi/IHWydRdQkqU/0.jpg)](https://www.youtube.com/watch?v=IHWydRdQkqU)
 
+[!NOTE]
 ## TXT File
-The file contains a G-code script for CNC drilling operations.
-<br>
-It includes:
+The file contains a G-code script for CNC drilling operations. It includes:
 - Servo Control: Adjustable servo widths for different operations.
 - Feedrate Settings: Adjustable feedrates for speed.
 - Coordinates: Adjustable positions for drilling at X-axis, Y-axis and Z-axis.
@@ -41,9 +37,7 @@ It includes:
 2. If you have software of CNC or 3D printer, can upload to open the file.
 
 ## CSV File
-The file contains a time and event data for drilling operations.
-<br>
-It includes:
+The file contains a time and event data for drilling operations. It includes:
 - Time: time for each event.
 - Event: the description of drilling event.
 
