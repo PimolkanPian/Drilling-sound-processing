@@ -14,5 +14,5 @@ The file contains a time and event data for drilling operations. It includes:
 - Event: the description of drilling event.
 
 ### How to use ###
-1. Download 'CSV File'
+1. Download `CSV File`.
 2. If you have MATLAB or other program, can upload to open the file.
