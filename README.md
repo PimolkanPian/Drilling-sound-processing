@@ -18,4 +18,4 @@ The file contains a time and event data for drilling operations. It includes:
 2. If you have MATLAB or other program, can upload to open the file.
 
 ## Sound Library ##
-[![Drilling Demo](https://img.youtube.com/vi/ywRKRw5kEJM/0.jpg)](https://www.youtube.com/watch?v=ywRKRw5kEJM)
+[![Drilling Acrylic](https://img.youtube.com/vi/ywRKRw5kEJM/0.jpg)](https://www.youtube.com/watch?v=ywRKRw5kEJM)
