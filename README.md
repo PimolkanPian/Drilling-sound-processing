@@ -1,5 +1,9 @@
 # Acoustic Signal Monitoring for Drilling operation
+This project aims to develop a system that monitors the operational state of drilling machines using acoustic sensors by capturing and analyzing acoustic signals.
+The system can detect variations in machine behavior, abnomality and enables in-situ process monitoring and machine health in process.
 
+**Sound Library of Drilling materials**
+Acrylic drilling
 
 
 
@@ -25,5 +29,4 @@ It includes:
 1. Download `CSV File`.
 2. If you have MATLAB or other program, can upload to open the file.
 
-## Sound Library
 [![Drilling Acrylic](https://img.youtube.com/vi/ywRKRw5kEJM/0.jpg)](https://www.youtube.com/watch?v=ywRKRw5kEJM)
