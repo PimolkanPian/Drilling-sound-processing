@@ -1,4 +1,4 @@
-# Acoustic Signal Monitoring for Drilling operation
+# Acoustic Signal Monitoring for Drilling Operation
 This project aims to develop a system that monitors the operational state of drilling machines using acoustic sensors by capturing and analyzing acoustic signals.
 The system can detect variations in machine behavior, abnomality and enables in-situ process monitoring and machine health in process.
 
