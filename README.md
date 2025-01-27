@@ -24,6 +24,7 @@ The experiment start with Power 60W at feed rate 50 mm/min. The drill moves down
 <br>
 [![Drilling Hardwood](https://img.youtube.com/vi/IHWydRdQkqU/0.jpg)](https://www.youtube.com/watch?v=IHWydRdQkqU)
 
+<!-- This content will not appear in the rendered Markdown -->
 ## TXT File
 The file contains a G-code script for CNC drilling operations. It includes:
 - Servo Control: Adjustable servo widths for different operations.
