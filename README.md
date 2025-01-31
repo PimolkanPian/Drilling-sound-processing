@@ -13,8 +13,6 @@ We observed the frequency that occurs and there may be other frequencies because
 The power level was increased to 80 and 100W that observed high frequency, correlating with the increased force applied to the material. 
 <br>
 <br>
-**Input Data: Sound Monitoring of Drilling Process**
-<br>
 [![Drilling Acrylic](https://img.youtube.com/vi/ywRKRw5kEJM/0.jpg)](https://www.youtube.com/watch?v=ywRKRw5kEJM)
 <br>
 <br>
@@ -22,3 +20,5 @@ The power level was increased to 80 and 100W that observed high frequency, corre
 <br>
 <br>
 [![Drilling Hardwood](https://img.youtube.com/vi/IHWydRdQkqU/0.jpg)](https://www.youtube.com/watch?v=IHWydRdQkqU)
+<br>
+<br>
