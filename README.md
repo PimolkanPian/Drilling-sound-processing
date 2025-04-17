@@ -22,5 +22,5 @@ We observed the frequency that occurs and the power level was increased to 80W a
 <br>
 <br>
 ## Audio Data Access
-The raw and processed audio files can be accessed via the following link:
-🔗 [Audio File](https://www.kaggle.com/datasets/pimolkanpian/drilling-sound-processing)
+The raw and processed audio files used in this project are publicly available on Kaggle.
+🔗 [Dataset on Kaggle](https://www.kaggle.com/datasets/pimolkanpian/drilling-sound-processing)
