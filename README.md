@@ -21,3 +21,6 @@ We observed the frequency that occurs and the power level was increased to 80W a
 [![Drilling Hardwood](https://img.youtube.com/vi/IHWydRdQkqU/0.jpg)](https://www.youtube.com/watch?v=IHWydRdQkqU)
 <br>
 <br>
+## Audio Data Access
+The raw and processed audio files can be accessed via the following link:
+🔗 [Click here to download audio data](https://www.kaggle.com/datasets/pimolkanpian/drilling-sound-processing)
